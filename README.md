@@ -1,4 +1,4 @@
-Cryptocoin Instawallet (inc. Litecoin and Bitcoin support)
+Templecoin Instawallet (inc. Templecoin, Litecoin and Bitcoin support)
 ====================
 This PHP web application is designed to allow users to instantly obtain a wallet for any cryptocurreny (Litecoin, Bitcoin, etc) without having to sign up for an account or download a client or large blockchain. It also provides users the ability to password their wallets for added security against key leakage.
 

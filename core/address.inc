@@ -5,7 +5,7 @@
  *
  * @author Someguy123 AKA Derpz0r
  * @copyright 2011
- *
+ * templecoin @2014
  */
 
 class Address
